@@ -1,0 +1,6 @@
+.git
+.dotfiles
+go/*
+lvim/lua/user/dashbord.lua
+lvim/lazy-lock.json
+yay
